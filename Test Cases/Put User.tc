@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Put User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b191836a-6a19-4fcf-b9ab-297c1c7e58ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b432ef29-136a-41fe-99d0-88b7ca119b6a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f6e1a47-5e4d-4c46-8473-3c2181d26eec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b432ef29-136a-41fe-99d0-88b7ca119b6a</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f6e1a47-5e4d-4c46-8473-3c2181d26eec</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

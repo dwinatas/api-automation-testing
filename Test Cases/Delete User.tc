@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a18b1ee2-3154-4400-a81f-261d6e00452e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f404c8f-de01-4128-bef7-b122a141e7f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3f404c8f-de01-4128-bef7-b122a141e7f8</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e67fb31-17b9-4884-a3d1-efcc31f7f0af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0c259c3-f73b-4bdc-86b6-8490261b824f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db0c86b5-f224-4d69-93de-d8b397e28fd6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b810ef85-c730-4287-bc93-4552e50d2b91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f0c259c3-f73b-4bdc-86b6-8490261b824f</id>
+      <masked>false</masked>
+      <name>response</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db0c86b5-f224-4d69-93de-d8b397e28fd6</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b810ef85-c730-4287-bc93-4552e50d2b91</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>
